@@ -73,9 +73,9 @@ $userId = $_SESSION['user_id'];
 
 </body>
 <script>
-//    setInterval(function() {
-//                 $("#cool").load(" #cool");
-//             }, 2000);
+   setInterval(function() {
+                $("#cool").load(" #cool");
+            }, 2200);
            
           $("#word").focus(function(e){
             var typing = "yes";
