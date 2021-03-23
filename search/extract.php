@@ -59,8 +59,8 @@ function clean($string){
         printf("d% failed to insert". mysqli_affected_rows($conn));
         mysqli_close($conn);
         } else {
-        header("location:Login.php");
-        echo "<script>window.open('Login.php', '_self')<script>";
+        header("location:login.php");
+        echo "<script>window.open('login.php', '_self')<script>";
             }
     }
 
