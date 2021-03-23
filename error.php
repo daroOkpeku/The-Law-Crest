@@ -21,7 +21,7 @@
         
         <aside class="main">
             <h1>404</h1>
-           <a href="Login.php"><button type="button"><i class="fa fa-comment" aria hidden="true"></i>Login</button></a>
+           <a href="login.php"><button type="button"><i class="fa fa-comment" aria hidden="true"></i>Login</button></a>
         </aside>
     
 </body>
